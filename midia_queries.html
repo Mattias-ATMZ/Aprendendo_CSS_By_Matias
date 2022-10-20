@@ -11,16 +11,33 @@
             height: 350px;
             background-color: #00ec85;
         }
+        .main{
+            padding-top: 50px;
+            /*VAMOS CENTRALIZAR O BLOCO COM FLEX-BOX*/
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+        }
         @media only screen and (max-width:400px){
             .exemplo{
                 width: 250px;
                 height: 250px;
                 background-color: #200a38;
             }
+        .blockquote-text{
+            text-align: justify;
+            text-indent: 10px;
+        }
         }
     </style>
 </head>
 <body>
-    <div class="exemplo"></div>
+    <MAIN class="main">
+        <h1>Media Queries</h1>
+        <div class="exemplo"></div>
+        <blockquote class="blockquote-text" cite="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries">Uma media query consiste de um media type e pelo menos uma expressão que limita o escopo das folhas de estilo usando media features, tal como largura, altura e cor. Media queries, adicionadas no CSS3, deixam a apresentação do conteúdo adaptado a uma gama especifica de dispositivos não precisando mudar o conteúdo em si.</blockquote>
+    </MAIN>
 </body>
 </html>
