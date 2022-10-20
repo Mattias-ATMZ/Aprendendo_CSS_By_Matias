@@ -1,5 +1,5 @@
 # Aprendendo_CSS_By_Matias
-Aqui estão exercícios relacionados as funcionalidades do CSS, do básico ao avançado, acompanhando meu nível de conhecimento. E também pra relembrar o que eu possivelmente possa esquecer...
+Aqui estão exercícios relacionados as funcionalidades do CSS, do básico ao avançado, acompanhando meu nível de conhecimento. E também pra relembrar o que eu estudei caso esqueca...
 
 <h1>11 - Background-Gradient</h1>
 <div align="center" >
