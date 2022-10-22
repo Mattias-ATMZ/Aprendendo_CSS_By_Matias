@@ -14,3 +14,7 @@ CSS:
 
 <h2>012_border_radius.html</h2>
 <h2>013_midia_queries.html</h2>
+HTML:
+<img src="https://user-images.githubusercontent.com/99132374/197357694-cdc47a4f-8ffc-4be7-8a2a-31424ddcb9e0.png">
+CSS:
+<img src="https://user-images.githubusercontent.com/99132374/197357363-e7f5c629-f597-4559-8153-96c1ea1d3beb.png">
